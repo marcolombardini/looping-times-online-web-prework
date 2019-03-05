@@ -1,6 +1,6 @@
 def using_times
 	loop do
-  puts "I have found the Time Machine!"
+  puts "Wingardium Leviosa"
 end
 
 
