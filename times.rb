@@ -1,5 +1,5 @@
 def using_times
-	loop do
+	7.yimes do
   puts "Wingardium Leviosa"
   break
 end
